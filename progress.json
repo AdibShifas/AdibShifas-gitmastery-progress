@@ -1,0 +1,81 @@
+[
+  {
+    "exercise_name": "grocery-shopping",
+    "started_at": 1768374259.530454,
+    "completed_at": 1768374260.881329,
+    "comments": [
+      "Great work! You have successfully used `git add` and `git commit` to modify the shopping list! Keep it up!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "log-and-order",
+    "started_at": 1768406175.679236,
+    "completed_at": 1768406178.466036,
+    "comments": [
+      "Answer for What is the commit message of the commit b6cfe5aab7e7314f666a5298d5a98a23b64b868b? is empty."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "log-and-order",
+    "started_at": 1768406237.809361,
+    "completed_at": 1768406240.662612,
+    "comments": [
+      "Answer for What is the commit message of the commit b6cfe5aab7e7314f666a5298d5a98a23b64b868b? is not right."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "log-and-order",
+    "started_at": 1768457970.909316,
+    "completed_at": 1768457973.680929,
+    "comments": [
+      "Answer for What is the commit message of the commit b6cfe5aab7e7314f666a5298d5a98a23b64b868b? is not right."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "log-and-order",
+    "started_at": 1768458016.122239,
+    "completed_at": 1768458017.492743,
+    "comments": [],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "stage-fright",
+    "started_at": 1768369807.462147,
+    "completed_at": 1768369808.862433,
+    "comments": [
+      "Great work! You have successfully checked in all the actors!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "staging-intervention",
+    "started_at": 1768370186.718657,
+    "completed_at": 1768370188.020471,
+    "comments": [
+      "Great work! You have successfully fixed the attendance system!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "under-control",
+    "started_at": 1768368762.20541,
+    "completed_at": 1768368763.412162,
+    "comments": [
+      "You successfully used git init to initialize this folder as a Git repository!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "undo-init",
+    "started_at": 1768368880.148924,
+    "completed_at": 1768368882.024657,
+    "comments": [
+      "You have successfully undone the init operation!"
+    ],
+    "status": "Completed"
+  }
+]
