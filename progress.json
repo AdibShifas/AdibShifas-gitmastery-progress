@@ -149,32 +149,5 @@
       "Great work fetching and pulling different upstreams!"
     ],
     "status": "Completed"
-  },
-  {
-    "exercise_name": "view-commits",
-    "started_at": 1768978092.713944,
-    "completed_at": 1768978095.64798,
-    "comments": [
-      "Answer for In April, what were the new names added to the duty rosters? Remove/add extra rows where appropriate. does not contain all of the right answers."
-    ],
-    "status": "Incomplete"
-  },
-  {
-    "exercise_name": "view-commits",
-    "started_at": 1768978225.816044,
-    "completed_at": 1768978228.745337,
-    "comments": [
-      "Answer for In April, what were the new names added to the duty rosters? Remove/add extra rows where appropriate. does not contain all of the right answers."
-    ],
-    "status": "Incomplete"
-  },
-  {
-    "exercise_name": "view-commits",
-    "started_at": 1768978333.760402,
-    "completed_at": 1768978336.48668,
-    "comments": [
-      "Answer for In April, what were the new names added to the duty rosters? Remove/add extra rows where appropriate. does not contain all of the right answers."
-    ],
-    "status": "Incomplete"
   }
 ]
