@@ -149,5 +149,14 @@
       "Great work fetching and pulling different upstreams!"
     ],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "tags-add",
+    "started_at": 1769321767.319947,
+    "completed_at": 1769321768.761253,
+    "comments": [
+      "Great work using git tag to annotate various commits in the repository!"
+    ],
+    "status": "Completed"
   }
 ]
